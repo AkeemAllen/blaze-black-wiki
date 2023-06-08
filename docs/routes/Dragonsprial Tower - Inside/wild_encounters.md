@@ -1,0 +1,6 @@
+# Dragonsprial tower - inside
+
+| Area                                                                                               | Pokemon                                                                         | &nbsp;                                                                    | &nbsp;                                                                    |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ![tower-normal room-one](../../img/items/tower-normal room-one.png)<br/>tower-normal room-one<br/> | ![druddigon](../../img/pokemon/621.png) <br/>[Druddigon](/pokemon/621) <br/>40% | ![baltoy](../../img/pokemon/343.png) <br/>[Baltoy](/pokemon/343) <br/>30% | ![golett](../../img/pokemon/622.png) <br/>[Golett](/pokemon/622) <br/>30% |
+| ![tower-normal room-two](../../img/items/tower-normal room-two.png)<br/>tower-normal room-two<br/> | ![claydol](../../img/pokemon/344.png) <br/>[Claydol](/pokemon/344) <br/>50%     | ![golurk](../../img/pokemon/623.png) <br/>[Golurk](/pokemon/623) <br/>50% |

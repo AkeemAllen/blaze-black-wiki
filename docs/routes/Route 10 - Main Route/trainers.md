@@ -1,0 +1,66 @@
+# Route 10 - main route
+
+| Trainer              | 1                                                                                  | 2                                                                                    | 3                                                                                    | 4                                                                                    | 5                                                                                  |
+| -------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Battle Girl Amy      | ![machamp](../../img/pokemon/068.png) <br/>[Machamp](/pokemon/068) <br/>Lv. 60     | ![lucario](../../img/pokemon/448.png) <br/>[Lucario](/pokemon/448) <br/>Lv. 60       | ![conkeldurr](../../img/pokemon/534.png) <br/>[Conkeldurr](/pokemon/534) <br/>Lv. 60 | ![infernape](../../img/pokemon/392.png) <br/>[Infernape](/pokemon/392) <br/>Lv. 60   |
+| Ace Trainer Johan    | ![tangrowth](../../img/pokemon/465.png) <br/>[Tangrowth](/pokemon/465) <br/>Lv. 63 | ![ampharos](../../img/pokemon/181.png) <br/>[Ampharos](/pokemon/181) <br/>Lv. 63     | ![magmortar](../../img/pokemon/467.png) <br/>[Magmortar](/pokemon/467) <br/>Lv. 63   | ![scizor](../../img/pokemon/212.png) <br/>[Scizor](/pokemon/212) <br/>Lv. 63         |
+| Veteran Karla        | ![reuniclus](../../img/pokemon/579.png) <br/>[Reuniclus](/pokemon/579) <br/>Lv. 63 | ![rhyperior](../../img/pokemon/464.png) <br/>[Rhyperior](/pokemon/464) <br/>Lv. 63   | ![beartic](../../img/pokemon/614.png) <br/>[Beartic](/pokemon/614) <br/>Lv. 63       | ![escavalier](../../img/pokemon/589.png) <br/>[Escavalier](/pokemon/589) <br/>Lv. 63 | ![ninetales](../../img/pokemon/038.png) <br/>[Ninetales](/pokemon/038) <br/>Lv. 63 |
+| Black Belt Corey     | ![throh](../../img/pokemon/538.png) <br/>[Throh](/pokemon/538) <br/>Lv. 60         | ![sawk](../../img/pokemon/539.png) <br/>[Sawk](/pokemon/539) <br/>Lv. 60             |
+| Hiker Bret           | ![gigalith](../../img/pokemon/526.png) <br/>[Gigalith](/pokemon/526) <br/>Lv. 60   | ![conkeldurr](../../img/pokemon/534.png) <br/>[Conkeldurr](/pokemon/534) <br/>Lv. 60 | ![probopass](../../img/pokemon/476.png) <br/>[Probopass](/pokemon/476) <br/>Lv. 60   |
+| Ace Trainer Cheyenne | ![togekiss](../../img/pokemon/468.png) <br/>[Togekiss](/pokemon/468) <br/>Lv. 63   | ![gyarados](../../img/pokemon/130.png) <br/>[Gyarados](/pokemon/130) <br/>Lv. 63     | ![vanilluxe](../../img/pokemon/584.png) <br/>[Vanilluxe](/pokemon/584) <br/>Lv. 63   | ![galvantula](../../img/pokemon/596.png) <br/>[Galvantula](/pokemon/596) <br/>Lv. 63 | ![porygon-z](../../img/pokemon/474.png) <br/>[Porygon-z](/pokemon/474) <br/>Lv. 63 |
+| Veteran Chester      | ![samurott](../../img/pokemon/503.png) <br/>[Samurott](/pokemon/503) <br/>Lv. 63   | ![hippowdon](../../img/pokemon/450.png) <br/>[Hippowdon](/pokemon/450) <br/>Lv. 63   | ![exeggutor](../../img/pokemon/103.png) <br/>[Exeggutor](/pokemon/103) <br/>Lv. 63   | ![skarmory](../../img/pokemon/227.png) <br/>[Skarmory](/pokemon/227) <br/>Lv. 63     | ![luxray](../../img/pokemon/405.png) <br/>[Luxray](/pokemon/405) <br/>Lv. 63       |
+
+=== "Fire"
+
+    | Trainer                                                                             | 1                                                                                  | 2                                                                                | 3                                                                                | 4                                                                                    | 5                                                                                | 6                                                                                |
+    | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+    | Cheren<br/> ![Cheren](https://play.pokemonshowdown.com/sprites/trainers/cheren.png) | ![staraptor](../../img/pokemon/398.png) <br/>[Staraptor](/pokemon/398) <br/>Lv. 66 | ![gigalith](../../img/pokemon/526.png) <br/>[Gigalith](/pokemon/526) <br/>Lv. 66 | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/pokemon/065) <br/>Lv. 66 | ![whimsicott](../../img/pokemon/547.png) <br/>[Whimsicott](/pokemon/547) <br/>Lv. 66 | ![simisear](../../img/pokemon/514.png) <br/>[Simisear](/pokemon/514) <br/>Lv. 66 | ![samurott](../../img/pokemon/503.png) <br/>[Samurott](/pokemon/503) <br/>Lv. 68 |
+
+=== "Water"
+
+    | Trainer                                                                             | 1                                                                                  | 2                                                                                | 3                                                                                | 4                                                                                | 5                                                                                | 6                                                                                  |
+    | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+    | Cheren<br/> ![Cheren](https://play.pokemonshowdown.com/sprites/trainers/cheren.png) | ![staraptor](../../img/pokemon/398.png) <br/>[Staraptor](/pokemon/398) <br/>Lv. 66 | ![gigalith](../../img/pokemon/526.png) <br/>[Gigalith](/pokemon/526) <br/>Lv. 66 | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/pokemon/065) <br/>Lv. 66 | ![houndoom](../../img/pokemon/229.png) <br/>[Houndoom](/pokemon/229) <br/>Lv. 66 | ![simipour](../../img/pokemon/516.png) <br/>[Simipour](/pokemon/516) <br/>Lv. 66 | ![serperior](../../img/pokemon/497.png) <br/>[Serperior](/pokemon/497) <br/>Lv. 68 |
+
+=== "Grass"
+
+    | Trainer                                                                             | 1                                                                                  | 2                                                                                | 3                                                                                | 4                                                                                | 5                                                                                | 6                                                                            |
+    | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+    | Cheren<br/> ![Cheren](https://play.pokemonshowdown.com/sprites/trainers/cheren.png) | ![staraptor](../../img/pokemon/398.png) <br/>[Staraptor](/pokemon/398) <br/>Lv. 66 | ![gigalith](../../img/pokemon/526.png) <br/>[Gigalith](/pokemon/526) <br/>Lv. 66 | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/pokemon/065) <br/>Lv. 66 | ![gyarados](../../img/pokemon/130.png) <br/>[Gyarados](/pokemon/130) <br/>Lv. 66 | ![simisage](../../img/pokemon/512.png) <br/>[Simisage](/pokemon/512) <br/>Lv. 66 | ![emboar](../../img/pokemon/500.png) <br/>[Emboar](/pokemon/500) <br/>Lv. 68 |
+
+<br/>
+
+## Cheren
+
+=== "Fire"
+
+    | ![Cheren](https://play.pokemonshowdown.com/sprites/trainers/cheren.png)              | Item | Nature | Ability | Moves                                                     |
+    | ------------------------------------------------------------------------------------ | ---- | ------ | ------- | --------------------------------------------------------- |
+    | ![staraptor](../../img/pokemon/398.png) <br/>[Staraptor](/pokemon/398) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![gigalith](../../img/pokemon/526.png) <br/>[Gigalith](/pokemon/526) <br/>Lv. 66     | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/pokemon/065) <br/>Lv. 66     | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![whimsicott](../../img/pokemon/547.png) <br/>[Whimsicott](/pokemon/547) <br/>Lv. 66 | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![simisear](../../img/pokemon/514.png) <br/>[Simisear](/pokemon/514) <br/>Lv. 66     | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![samurott](../../img/pokemon/503.png) <br/>[Samurott](/pokemon/503) <br/>Lv. 68     | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+
+=== "Water"
+
+    | ![Cheren](https://play.pokemonshowdown.com/sprites/trainers/cheren.png)            | Item | Nature | Ability | Moves                                                     |
+    | ---------------------------------------------------------------------------------- | ---- | ------ | ------- | --------------------------------------------------------- |
+    | ![staraptor](../../img/pokemon/398.png) <br/>[Staraptor](/pokemon/398) <br/>Lv. 66 | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![gigalith](../../img/pokemon/526.png) <br/>[Gigalith](/pokemon/526) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/pokemon/065) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![houndoom](../../img/pokemon/229.png) <br/>[Houndoom](/pokemon/229) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![simipour](../../img/pokemon/516.png) <br/>[Simipour](/pokemon/516) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![serperior](../../img/pokemon/497.png) <br/>[Serperior](/pokemon/497) <br/>Lv. 68 | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+
+=== "Grass"
+
+    | ![Cheren](https://play.pokemonshowdown.com/sprites/trainers/cheren.png)            | Item | Nature | Ability | Moves                                                     |
+    | ---------------------------------------------------------------------------------- | ---- | ------ | ------- | --------------------------------------------------------- |
+    | ![staraptor](../../img/pokemon/398.png) <br/>[Staraptor](/pokemon/398) <br/>Lv. 66 | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![gigalith](../../img/pokemon/526.png) <br/>[Gigalith](/pokemon/526) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![alakazam](../../img/pokemon/065.png) <br/>[Alakazam](/pokemon/065) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![gyarados](../../img/pokemon/130.png) <br/>[Gyarados](/pokemon/130) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![simisage](../../img/pokemon/512.png) <br/>[Simisage](/pokemon/512) <br/>Lv. 66   | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |
+    | ![emboar](../../img/pokemon/500.png) <br/>[Emboar](/pokemon/500) <br/>Lv. 68       | N/A  | N/A    | N/A     | <ul><li>N/A</li><li>N/A</li><li>N/A</li><li>N/A</li></ul> |

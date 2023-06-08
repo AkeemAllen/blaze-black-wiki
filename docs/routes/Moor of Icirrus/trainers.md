@@ -1,0 +1,8 @@
+# Moor of icirrus
+
+| Trainer             | 1                                                                                    | 2                                                                                | 3                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Pkmn Ranger Harry   | ![seismitoad](../../img/pokemon/537.png) <br/>[Seismitoad](/pokemon/537) <br/>Lv. 58 | ![fraxure](../../img/pokemon/611.png) <br/>[Fraxure](/pokemon/611) <br/>Lv. 58   | ![umbreon](../../img/pokemon/197.png) <br/>[Umbreon](/pokemon/197) <br/>Lv. 58     |
+| Pkmn Ranger Chloris | ![lilligant](../../img/pokemon/549.png) <br/>[Lilligant](/pokemon/549) <br/>Lv. 58   | ![swampert](../../img/pokemon/260.png) <br/>[Swampert](/pokemon/260) <br/>Lv. 58 | ![porygon-z](../../img/pokemon/474.png) <br/>[Porygon-z](/pokemon/474) <br/>Lv. 58 |
+| Fisherman Damon     | ![stunfisk](../../img/pokemon/618.png) <br/>[Stunfisk](/pokemon/618) <br/>Lv. 57     | ![seaking](../../img/pokemon/119.png) <br/>[Seaking](/pokemon/119) <br/>Lv. 57   | ![kingdra](../../img/pokemon/230.png) <br/>[Kingdra](/pokemon/230) <br/>Lv. 57     |
+| Parasol Lady Miriah | ![chandelure](../../img/pokemon/609.png) <br/>[Chandelure](/pokemon/609) <br/>Lv. 58 | ![vaporeon](../../img/pokemon/134.png) <br/>[Vaporeon](/pokemon/134) <br/>Lv. 58 | ![golurk](../../img/pokemon/623.png) <br/>[Golurk](/pokemon/623) <br/>Lv. 58       |

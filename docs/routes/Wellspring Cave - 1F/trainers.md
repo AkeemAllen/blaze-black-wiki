@@ -1,0 +1,7 @@
+# Wellspring cave - 1f
+
+| Trainer        | 1                                                                              | 2                                                                                  | 3                                                                                  |
+| -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Plasma Grunt 1 | ![zubat](../../img/pokemon/041.png) <br/>[Zubat](/pokemon/041) <br/>Lv. 15     | ![tentacool](../../img/pokemon/072.png) <br/>[Tentacool](/pokemon/072) <br/>Lv. 15 | ![poochyena](../../img/pokemon/261.png) <br/>[Poochyena](/pokemon/261) <br/>Lv. 15 |
+| Plasma Grunt 2 | ![voltorb](../../img/pokemon/100.png) <br/>[Voltorb](/pokemon/100) <br/>Lv. 15 | ![carvanha](../../img/pokemon/318.png) <br/>[Carvanha](/pokemon/318) <br/>Lv. 15   | ![pawniard](../../img/pokemon/624.png) <br/>[Pawniard](/pokemon/624) <br/>Lv. 15   |
+| Plasma Grunt 3 | ![gulpin](../../img/pokemon/316.png) <br/>[Gulpin](/pokemon/316) <br/>Lv. 15   | ![numel](../../img/pokemon/322.png) <br/>[Numel](/pokemon/322) <br/>Lv. 15         | ![houndour](../../img/pokemon/228.png) <br/>[Houndour](/pokemon/228) <br/>Lv. 15   |

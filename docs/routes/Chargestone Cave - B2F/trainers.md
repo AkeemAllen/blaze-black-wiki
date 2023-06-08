@@ -1,0 +1,6 @@
+# Chargestone cave - b2f
+
+| Trainer             | 1                                                                                  | 2                                                                            | 3                                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Ace Trainer Allison | ![dratini](../../img/pokemon/147.png) <br/>[Dratini](/pokemon/147) <br/>Lv. 42     | ![rhydon](../../img/pokemon/112.png) <br/>[Rhydon](/pokemon/112) <br/>Lv. 42 | ![exeggutor](../../img/pokemon/103.png) <br/>[Exeggutor](/pokemon/103) <br/>Lv. 42 |
+| Ace Trainer Stella  | ![farfetchd](../../img/pokemon/083.png) <br/>[Farfetchd](/pokemon/083) <br/>Lv. 42 | ![hypno](../../img/pokemon/097.png) <br/>[Hypno](/pokemon/097) <br/>Lv. 42   | ![arcanine](../../img/pokemon/059.png) <br/>[Arcanine](/pokemon/059) <br/>Lv. 42   |

@@ -1,0 +1,13 @@
+# Route 9
+
+| Trainer             | 1                                                                                    | 2                                                                                    | 3                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Roughneck Reesse    | ![scrafty](../../img/pokemon/560.png) <br/>[Scrafty](/pokemon/560) <br/>Lv. 61       | ![garbodor](../../img/pokemon/569.png) <br/>[Garbodor](/pokemon/569) <br/>Lv. 61     |
+| Biker Philip        | ![bouffalant](../../img/pokemon/626.png) <br/>[Bouffalant](/pokemon/626) <br/>Lv. 62 |
+| Hooligans Jim & Cas | ![cacturne](../../img/pokemon/332.png) <br/>[Cacturne](/pokemon/332) <br/>Lv. 61     | ![shiftry](../../img/pokemon/275.png) <br/>[Shiftry](/pokemon/275) <br/>Lv. 61       |
+| Biker Zeke          | ![pawniard](../../img/pokemon/624.png) <br/>[Pawniard](/pokemon/624) <br/>Lv. 61     | ![bisharp](../../img/pokemon/625.png) <br/>[Bisharp](/pokemon/625) <br/>Lv. 61       |
+| Roughneck Chance    | ![chansey](../../img/pokemon/113.png) <br/>[Chansey](/pokemon/113) <br/>Lv. 62       |
+| Waitress Flo        | ![clefable](../../img/pokemon/036.png) <br/>[Clefable](/pokemon/036) <br/>Lv. 61     | ![lilligant](../../img/pokemon/549.png) <br/>[Lilligant](/pokemon/549) <br/>Lv. 61   | ![gorebyss](../../img/pokemon/368.png) <br/>[Gorebyss](/pokemon/368) <br/>Lv. 61 |
+| Rich Boy Manuel     | ![arcanine](../../img/pokemon/059.png) <br/>[Arcanine](/pokemon/059) <br/>Lv. 61     | ![raichu](../../img/pokemon/026.png) <br/>[Raichu](/pokemon/026) <br/>Lv. 61         | ![grumpig](../../img/pokemon/326.png) <br/>[Grumpig](/pokemon/326) <br/>Lv. 61   |
+| Waiter Bert         | ![simisage](../../img/pokemon/512.png) <br/>[Simisage](/pokemon/512) <br/>Lv. 61     | ![chandelure](../../img/pokemon/609.png) <br/>[Chandelure](/pokemon/609) <br/>Lv. 61 | ![politoed](../../img/pokemon/186.png) <br/>[Politoed](/pokemon/186) <br/>Lv. 61 |
+| Lady Isabel         | ![stoutland](../../img/pokemon/508.png) <br/>[Stoutland](/pokemon/508) <br/>Lv. 61   | ![gengar](../../img/pokemon/094.png) <br/>[Gengar](/pokemon/094) <br/>Lv. 61         | ![snorlax](../../img/pokemon/143.png) <br/>[Snorlax](/pokemon/143) <br/>Lv. 61   |

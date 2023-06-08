@@ -1,0 +1,6 @@
+# Relic castle - 1f
+
+| Trainer       | 1                                                                                  | 2                                                                              | 3                                                                                |
+| ------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Psychic Perry | ![gothorita](../../img/pokemon/575.png) <br/>[Gothorita](/pokemon/575) <br/>Lv. 32 | ![duosion](../../img/pokemon/578.png) <br/>[Duosion](/pokemon/578) <br/>Lv. 32 |
+| Psychic Dua   | ![litwick](../../img/pokemon/607.png) <br/>[Litwick](/pokemon/607) <br/>Lv. 31     | ![elgyem](../../img/pokemon/605.png) <br/>[Elgyem](/pokemon/605) <br/>Lv. 31   | ![sigilyph](../../img/pokemon/561.png) <br/>[Sigilyph](/pokemon/561) <br/>Lv. 31 |

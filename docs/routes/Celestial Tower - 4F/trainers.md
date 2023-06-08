@@ -1,0 +1,6 @@
+# Celestial tower - 4f
+
+| Trainer               | 1                                                                                  | 2                                                                                | 3                                                                                  |
+| --------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Ace Trainer Beckett   | ![magnezone](../../img/pokemon/462.png) <br/>[Magnezone](/pokemon/462) <br/>Lv. 50 | ![medicham](../../img/pokemon/308.png) <br/>[Medicham](/pokemon/308) <br/>Lv. 50 | ![wailord](../../img/pokemon/321.png) <br/>[Wailord](/pokemon/321) <br/>Lv. 50     |
+| Ace Trainer Kassandra | ![rampardos](../../img/pokemon/409.png) <br/>[Rampardos](/pokemon/409) <br/>Lv. 50 | ![torterra](../../img/pokemon/389.png) <br/>[Torterra](/pokemon/389) <br/>Lv. 50 | ![magmortar](../../img/pokemon/467.png) <br/>[Magmortar](/pokemon/467) <br/>Lv. 50 |
