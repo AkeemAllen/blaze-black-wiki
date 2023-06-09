@@ -1,6 +1,6 @@
 # Relic castle - b2f
 
-| Trainer             | 1                                                                              | 2                                                                              | 3                                                                            |
-| ------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| Team Plasma Grunt 2 | ![ariados](../../img/pokemon/168.png) <br/>[Ariados](/pokemon/168) <br/>Lv. 58 | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/pokemon/169) <br/>Lv. 58   | ![rhydon](../../img/pokemon/112.png) <br/>[Rhydon](/pokemon/112) <br/>Lv. 58 |
-| Team Plasma Grunt 3 | ![bisharp](../../img/pokemon/625.png) <br/>[Bisharp](/pokemon/625) <br/>Lv. 59 | ![drapion](../../img/pokemon/452.png) <br/>[Drapion](/pokemon/452) <br/>Lv. 59 |
+| Trainer             | 1                                                                                               | 2                                                                                               | 3                                                                                             |
+| ------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Team Plasma Grunt 2 | ![ariados](../../img/pokemon/168.png) <br/>[Ariados](/blaze-black-wiki/pokemon/168) <br/>Lv. 58 | ![crobat](../../img/pokemon/169.png) <br/>[Crobat](/blaze-black-wiki/pokemon/169) <br/>Lv. 58   | ![rhydon](../../img/pokemon/112.png) <br/>[Rhydon](/blaze-black-wiki/pokemon/112) <br/>Lv. 58 |
+| Team Plasma Grunt 3 | ![bisharp](../../img/pokemon/625.png) <br/>[Bisharp](/blaze-black-wiki/pokemon/625) <br/>Lv. 59 | ![drapion](../../img/pokemon/452.png) <br/>[Drapion](/blaze-black-wiki/pokemon/452) <br/>Lv. 59 |
