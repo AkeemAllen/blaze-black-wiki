@@ -1,8 +1,8 @@
 site_name: Blaze Black Wiki
-site_url: https://akeemallen.github.io/pokemon-game-wiki-generator
+site_url: https://akeemallen.github.io/blaze-black-wiki
 site_description: A fanmade wiki for Blaze Black.
 site_author: Akeem Allen
-repo_url: https://github.com/AkeemAllen/pokemon-game-wiki-generator/
+repo_url: https://github.com/AkeemAllen/blaze-black-wiki/
 theme:
     palette:
     -   media: '(prefers-color-scheme: light)'
@@ -905,6 +905,7 @@ plugins:
 -   search:
         lang: en
 markdown_extensions:
+-   admonition
 -   pymdownx.tasklist:
         custom_checkbox: true
 - pymdownx.superfences
